@@ -21,7 +21,7 @@ include 'dbconnection.php';
     <div class="container">
       <!-- Brand -->
       <a class="navbar-brand fw-bold pink-text" href="index.php"><img src="images/logo.png" alt="Shivani's Care"
-          class="d-inline-block align-text-top" height="40"></a>
+          class="d-inline-block align-text-top" height="auto" width="70"></a>
       <!-- Shivani's<br>Care -->
       <!-- Toggler -->
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
@@ -32,13 +32,13 @@ include 'dbconnection.php';
       <div class="collapse navbar-collapse" id="navbarNav">
         <!-- Left Nav Items -->
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">Makeup</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">Skincare</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">Haircare</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">Fragrance</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">Brands</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">New Arrivals</a></li>
+          <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="makeup.php">Makeup</a></li>
+          <li class="nav-item"><a class="nav-link" href="skin.php">Skincare</a></li>
+          <li class="nav-item"><a class="nav-link" href="hair.php">Haircare</a></li>
+          <li class="nav-item"><a class="nav-link" href="fragrance.php">Fragrance</a></li>
+          <li class="nav-item"><a class="nav-link" href="brands.php">Brands</a></li>
+          <li class="nav-item"><a class="nav-link" href="newarrivals.php">New Arrivals</a></li>
         </ul>
 
         <!-- Right Section - Search and Bag -->

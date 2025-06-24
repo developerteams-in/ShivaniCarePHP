@@ -38,8 +38,8 @@
 </head>
 <body>
     <?php include 'Navbar.php';?>
-        
-<section class="hero d-md-flex" style="width:100%; height:400px;">
+   <div class="container">
+    <section class="hero d-md-flex" style="width:100%; height:400px; margin-top:45px">
   <div class="col-md-12 bg-pink text-white p-5 d-flex flex-column justify-content-center position-relative">
 
     <!-- Background Text -->
@@ -52,6 +52,8 @@
     <p class="small mt-0 text-center" style="color: #FBFF12;">Beauty, Redefined. Confidence, Amplified.</p>
   </div>
 </section>
+   </div>     
+
 
 <!-- New Arrivals -->
 <section class="container py-3">

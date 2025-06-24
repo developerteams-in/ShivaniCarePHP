@@ -9,8 +9,8 @@
 </head>
 <body>
     <?php include 'Navbar.php';?>
-
-    <section class="d-flex flex-wrap" style="background-color: #c3006f; min-height: 600px;">
+<div class="container">
+    <section class="d-flex flex-wrap" style="background-color: #c3006f; min-height: 500px; margin-top:45px">
   <!-- Left Content -->
   <div class="col-md-6 d-flex flex-column justify-content-center align-items-center text-white p-5">
     <h1 class="display-1 fw-bold" style="opacity: 0.4; font-size: 200px;">NEW</h1>
@@ -22,7 +22,8 @@
     <img src="images/framef.png" alt="New Product" class="img-fluid" style="max-height: 100%; width: auto;">
   </div>
 </section>
-
+</div>
+    
 <!-- New Arrivals -->
 <section class="container py-5">
     <h2 class="fw-bold mb-4 text-center">New Arrivals</h2>
