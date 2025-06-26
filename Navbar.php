@@ -37,7 +37,7 @@ include 'dbconnection.php';
           <li class="nav-item"><a class="nav-link" href="skin.php">Skincare</a></li>
           <li class="nav-item"><a class="nav-link" href="hair.php">Haircare</a></li>
           <li class="nav-item"><a class="nav-link" href="fragrance.php">Fragrance</a></li>
-          <li class="nav-item"><a class="nav-link" href="brands.php">Brands</a></li>
+          <li class="nav-item"><a class="nav-link" href="Brands.php">Brands</a></li>
           <li class="nav-item"><a class="nav-link" href="newarrivals.php">New Arrivals</a></li>
         </ul>
 
